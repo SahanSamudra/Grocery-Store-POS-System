@@ -1,0 +1,6 @@
+.Roundbutton {
+    -fx-background-radius: 100;
+}
+.button {
+    -fx-border-radius-color:#0652DD;
+    -fx-background-radius: 50px 50px 50px 50px;}
